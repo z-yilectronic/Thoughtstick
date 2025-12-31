@@ -1,5 +1,7 @@
 
-A catch & freeze note-taker. 'Send' thoughts instantly, and then hide them for hours.
+
+# A catch & freeze note-taker. 
+'Send' thoughts instantly, and then hide them for hours.
 
 # Quick start
 Run in CMD:
