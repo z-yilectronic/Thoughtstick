@@ -16,7 +16,7 @@ pip install PyQt6 pyinstaller
 pyinstaller --noconsole --onefile --name="thoughtstick" main.py
 ```
 
-# Talk for code
+# Talk..
 
 I often have pop-up thoughts, ranging from lunch, pets and fanart to some "ah, it might be useful.." idea, unfortunately, during working. 
 I hope to simply throw these fluffy ideas into a place for later exploration, allowing me to stay focused on my current flow.   
