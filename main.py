@@ -212,6 +212,8 @@ class VibeNote(QWidget):
     def keyPressEvent(self, event):
         if event.key() == Qt.Key.Key_Return and (event.modifiers() & Qt.KeyboardModifier.ControlModifier):
             self.save_new_note()
+        if event.key() == Qt.Key.Key_Q and (event.modifiers() & (Qt.KeyboardModifier.ControlModifier | Qt.KeyboardModifier.ShiftModifier)):
+            QApplication.quit()
 
     def save_new_note(self):
         text = self.editor.toPlainText().strip()
