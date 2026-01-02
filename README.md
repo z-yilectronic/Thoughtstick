@@ -15,7 +15,7 @@ python -m venv venv_pack
 pip install PyQt6 pyinstaller
 pyinstaller --noconsole --onefile --name="thoughtstick" main.py
 ```
-To close thoughtstick, keyboard shortcut: '''bash Ctrl+Shift+Q '''
+To close thoughtstick, use keyboard shortcut: `Ctrl+Shift+Q`
 
 # Talk..
 
