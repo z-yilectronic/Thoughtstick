@@ -15,6 +15,7 @@ python -m venv venv_pack
 pip install PyQt6 pyinstaller
 pyinstaller --noconsole --onefile --name="thoughtstick" main.py
 ```
+To close thoughtstick, keyboard shortcut: '''Ctrl+Shift+Q'''
 
 # Talk..
 
@@ -23,4 +24,4 @@ I hope to simply throw these fluffy ideas into a place for later exploration, al
 
 This tool is built with the Python package PyQt6, with assistance from Gemini-3. Great thanks to the vast amount of open-source code that modern AI models are built upon.
 
-Future Features to be added, hopefully: Shortcut for Exiting, Custom Timer 
+Future Features to be added, hopefully: Custom Timer 
