@@ -25,3 +25,4 @@ I hope to simply throw these fluffy ideas into a place for later exploration, al
 This tool is built with the Python package PyQt6, with assistance from Gemini-3. Great thanks to the vast amount of open-source code that modern AI models are built upon.
 
 Update: Custom Timer added
+Update: Add .ico file
